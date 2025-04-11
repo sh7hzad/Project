@@ -1,0 +1,51 @@
+body {
+  font-family: Arial, sans-serif;
+  color: #000000;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #17072b;
+  color: white;
+  padding: 20px;
+  font-family: Tahoma, sans-serif;
+  font-weight: 700;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+main {
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 30px;
+}
+
+img {
+  width: 150px;
+  height: 150px;
+  margin-right: 10px;
+}
+
+footer {
+  background-color: #8c15e9;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
